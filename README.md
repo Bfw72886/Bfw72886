@@ -4,5 +4,5 @@ Hey, I'm Brian.
 
 ## My projects
 
-- [x] [Etch-a-Sketch](https://github.com/Bfw72886/etch-a-sketch) 
+- [Etch-a-Sketch](https://github.com/Bfw72886/etch-a-sketch) 
     - [Website](https://bfw72886.github.io/etch-a-sketch/)
