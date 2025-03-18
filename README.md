@@ -1,5 +1,5 @@
 <h3 align="center">
-Hey, I'm Brian.
+Hey, I'm Brian. :crossed_fingers:
 </3>
 
 ## My projects
