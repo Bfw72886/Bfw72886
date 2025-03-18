@@ -2,7 +2,7 @@
 Hey, I'm Brian. :crossed_fingers:
 </3>
 
-## My projects
+## :woman_technologist:	My projects
 
 - [Etch-a-Sketch](https://github.com/Bfw72886/etch-a-sketch) 
     - [Website](https://bfw72886.github.io/etch-a-sketch/)
