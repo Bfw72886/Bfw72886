@@ -4,15 +4,17 @@ Hey, I'm Brian. :purple_heart:
 
 ## :joystick: My projects
 
-- [Etch-a-Sketch](https://github.com/Bfw72886/etch-a-sketch) 
-    - [Website](https://bfw72886.github.io/etch-a-sketch/)
+- [Etch-a-Sketch](https://github.com/Bfw72886/etch-a-sketch)
+  - [Website](https://bfw72886.github.io/etch-a-sketch/)
 - [Calculator](https://github.com/Bfw72886/calculator)
-    - [Website](https://bfw72886.github.io/calculator/)
+  - [Website](https://bfw72886.github.io/calculator/)
 - [Rollenspiel](https://github.com/Bfw72886/rollenspiel)
+- [Dashboard Grid CSS](https://github.com/Bfw72886/dashboard-intermediate)
+  - [Website](https://bfw72886.github.io/dashboard-intermediate/)
 - [Landing Page CSS](https://github.com/Bfw72886/foundations-landing-page)
-    - [Website](https://bfw72886.github.io/foundations-landing-page/)
+  - [Website](https://bfw72886.github.io/foundations-landing-page/)
 - [Recipe Page HTML](https://github.com/Bfw72886/odin-recipes)
-    - [Website](https://bfw72886.github.io/odin-recipes/)
+  - [Website](https://bfw72886.github.io/odin-recipes/)
 - [Final project Android](https://github.com/Bfw72886/MyGameProjekt)
 
 ### :ribbon: Forks of repos I found useful
