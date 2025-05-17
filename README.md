@@ -26,6 +26,7 @@ Hey, I'm Brian. :purple_heart:
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
 - [Catppuccin Mocha Wallpapers](https://github.com/Bfw72886/walls-catppuccin-mocha)
 - [Catppuccin Mocha Git Bash Theme](https://gist.github.com/Bfw72886/41b002cd9c1dfe24358faad52cb6cc59)
+- [Fingerprint sensor fix](https://github.com/Bfw72886/python-validity)
 
 ### :notebook: School repos
 
