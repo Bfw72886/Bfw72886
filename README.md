@@ -4,8 +4,10 @@ Hey, I'm Brian. :purple_heart:
 
 ## :joystick: My projects
 
+- [Tic Tac Toe](https://github.com/Bfw72886/tic-tac-toe)
+  - [Website](https://tic-tac-toe-opal-pi.vercel.app/)
 - [Library](https://github.com/Bfw72886/project-library)
-  - [Website](https://project-library-gamma.vercel.app/) 
+  - [Website](https://project-library-gamma.vercel.app/)
 - [Etch-a-Sketch](https://github.com/Bfw72886/etch-a-sketch)
   - [Website](https://bfw72886.github.io/etch-a-sketch/)
 - [Calculator](https://github.com/Bfw72886/calculator)
