@@ -4,6 +4,8 @@ Hey, I'm Brian. :purple_heart:
 
 ## :joystick: My projects
 
+- [Pokemon Memory Game](https://github.com/Brian-Otto/memory-card)
+  - [Website](https://memory-card-two-theta.vercel.app/)
 - [Tic Tac Toe](https://github.com/Brian-Otto/tic-tac-toe)
   - [Website](https://tic-tac-toe-opal-pi.vercel.app/)
 - [Library](https://github.com/Brian-Otto/project-library)
